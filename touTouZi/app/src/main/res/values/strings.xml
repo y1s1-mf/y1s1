@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TouTouZi 1.0</string>
+
+    <!-- title -->
+    <string name="error" translatable="false">Error</string>
+    <!-- content -->
+    <string name="isEmpty" translatable="false">请输入数据</string>
+    <string name="NotIsNumber" translatable="false">输入的不是数字</string>
+    <!-- button -->
+    <string name="define" translatable="false">确定</string>
+    <string name="cancel" translatable="false">取消</string>
+    <string name="back" translatable="false">返回</string>
+
+</resources>
